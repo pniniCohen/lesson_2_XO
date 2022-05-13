@@ -19,7 +19,7 @@ namespace XO_Game
     /// Interaction logic for MainWindow.xaml
     /// </summary>
     public partial class MainWindow : Window
-    {
+    {//hjituy
         private int count=0;
         private string[,] mat = new string[3,3];
         public MainWindow()
